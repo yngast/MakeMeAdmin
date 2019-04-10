@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.makemeadmin.computer</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>user_email</key>
+								<string></string>
+								<key>user_first_name</key>
+								<string>Yngve</string>
+								<key>user_full_name</key>
+								<string>Yngve Åström</string>
+								<key>user_last_name</key>
+								<string>Åström</string>
+								<key>user_long_name</key>
+								<string>yngve.astrom</string>
+								<key>user_short_name</key>
+								<string>yngast</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadIdentifier</key>
+			<string>com.makemeadmin.computer.C32YW0GFGTD6</string>
+			<key>PayloadOrganization</key>
+			<string>Schibsted Enterprise Technology</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>C32YW0GFGTD6-D25E6B18-C9D7-4306-9E2C-300E28D3D117</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Asset Information</string>
+	<key>PayloadDisplayName</key>
+	<string> Asset: C32YW0GFGTD6</string>
+	<key>PayloadIdentifier</key>
+	<string>com.makemeadmin.computer.C32YW0GFGTD6</string>
+	<key>PayloadOrganization</key>
+	<string>Astrom MakeMeAdmin</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C32YW0GFGTD6</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

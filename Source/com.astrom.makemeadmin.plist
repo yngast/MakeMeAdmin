@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.schibsted.makemeadmin</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Library/Management/MakeMeAdmin/check-localadmin.sh</string>
+	</array>
+	<key>StandardOutPath</key>
+	<string>/var/log/makemeadmin.log</string>
+	<key>StandardErrorPath</key>
+	<string>/var/log/makemeadmin.log</string>
+	<key>Debug</key>
+	<true/>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StartInterval</key>
+	<integer>60</integer>
+	<key>QueueDirectories</key>
+	<array>
+		<string>/private/var/tmp/fuzzy/</string>
+	</array>
+	<key>WatchPaths</key>
+	<array>
+		<string>/private/var/tmp/fuzzy/</string>
+	</array>
+</dict>
+</plist>
